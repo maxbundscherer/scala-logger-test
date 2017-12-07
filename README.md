@@ -1,6 +1,5 @@
 # Scala logger test
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#)
 [![shields.io](http://img.shields.io/badge/license-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 **A project to test different log-levels. Tests are run in an interval-controlled manner.**
